@@ -19,3 +19,9 @@ int main()
   return 0;
 }
 ```
+## Rust
+```rust
+fn main() {
+    println!("The Programming Languages");
+}
+```

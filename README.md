@@ -22,6 +22,6 @@ int main()
 ## Rust
 ```rust
 fn main() {
-    println!("The Programming Languages");
+    println!("The Programming Languages\n");
 }
 ```
